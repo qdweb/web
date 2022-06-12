@@ -9,6 +9,5 @@
 <meta http-equiv="refresh" content="0.1; url='https://{$url}'">
 </head> 
 <body> 
-<!--晋星-->
 </body> 
 </html>
